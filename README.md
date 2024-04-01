@@ -1,5 +1,6 @@
  # Course de voitures 
-Ce projet simule un arrêt au stand lors d'un grand prix de Formule 1. Lors de cet arrêt, plusieurs tâches doivent être accomplies telles que le changement de roues, le nettoyage du casque du pilote, et le ravitaillement en essence. Les durées de chaque tâche sont fournies dans le tableau ci-dessous.
+ # Introduction
+Ce projet simule un arrêt au stand lors d'un grand prix de Formule 1. Lors de cet arrêt, plusieurs tâches doivent être accomplies telles que le changement de roues, le nettoyage du casque du pilote, et le ravitaillement en essence. Les durées de chaque tâche sont fournies dans le tableau ci-dessous:
 
  <table>
         <tr>
@@ -47,18 +48,15 @@ Ce projet simule un arrêt au stand lors d'un grand prix de Formule 1. Lors de c
             <td>10</td>
         </tr>
     </table>
+    
+# Instructions pour exécuter le projet :
 
-Instructions pour exécuter le projet :
-Créez le projet en utilisant les dates et les calendriers fournis.
-Complétez le tableau des tâches selon les instructions données.
-Dessinez le diagramme de PERT du projet et déterminez sa durée.
-Utilisez Microsoft Project pour établir le planning initial du projet sous forme d'un diagramme de Gantt.
-Renommez le projet et établissez un nouveau diagramme de PERT, de Gantt et calculez la durée d'arrêt minimale ainsi que le nombre de personnes nécessaires.
-Réalisez une dernière version du projet en considérant une seule ressource, établissez le tableau des ressources, vérifiez les surutilisations, et comparez le nouveau diagramme de Gantt avec celui de la question précédente.
-Comment exécuter le projet :
-Ouvrez le fichier du projet dans Microsoft Project.
-Suivez les instructions données dans chaque étape.
-Assurez-vous de sauvegarder chaque version du projet pour référence future.
-Note :
-L'unité de temps utilisée dans ce projet est la minute.
-Ce projet est conçu pour une simulation et une analyse de la gestion de projet, il ne nécessite pas de matériel spécifique pour son exécution.
+1. Installez MS Project.
+2. Créez le projet en utilisant les dates et les calendriers fournis.
+3. Ouvrez les fichiers du projet dans Microsoft Project.
+4. Pour voir la version finale, allez directement vers le fichier nommé <b>MiniProjet-Version4-BECHCHAA.mpp</b>
+   
+
+# Note :
+- L'unité de temps utilisée dans ce projet est la minute.
+
